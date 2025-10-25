@@ -1,2 +1,2 @@
-# react
+# real-time notification service 
 
